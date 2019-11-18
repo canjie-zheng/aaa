@@ -7,3 +7,4 @@
 https://github.com/canjie-zheng/aaa/blob/master/%E6%B5%81%E7%A8%8B%E5%9B%BE.png
 三、代码
 https://github.com/canjie-zheng/aaa/blob/master/A.java
+https://github.com/canjie-zheng/aaa/blob/master/Changhege.java
