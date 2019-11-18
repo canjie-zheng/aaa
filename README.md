@@ -11,3 +11,6 @@ https://github.com/canjie-zheng/aaa/blob/master/Changhege.java
 https://github.com/canjie-zheng/aaa/blob/master/Test.java
 四、运行图
 https://github.com/canjie-zheng/aaa/blob/master/%E7%94%9F%E5%AD%97.png
+https://github.com/canjie-zheng/aaa/blob/master/%E6%8A%9B%E5%87%BA%E5%BC%82%E5%B8%B8.jpg
+五、感悟
+对于我来说，还是有些难度，因为自己掌握的不是很好，此次的实验还是通过在同学的帮助下完成的，每次的实验都能让我进步一些。
