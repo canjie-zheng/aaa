@@ -9,9 +9,9 @@
 ### 二、流程图   
 ![](https://github.com/canjie-zheng/aaa/blob/master/%E6%B5%81%E7%A8%8B%E5%9B%BE.png)
 ### 三、代码  
-![](https://github.com/canjie-zheng/aaa/blob/master/A.java)
-![](https://github.com/canjie-zheng/aaa/blob/master/Changhege.java)
-![](https://github.com/canjie-zheng/aaa/blob/master/Test.java)
+https://github.com/canjie-zheng/aaa/blob/master/A.java  
+https://github.com/canjie-zheng/aaa/blob/master/Changhege.java  
+https://github.com/canjie-zheng/aaa/blob/master/Test.java  
 ### 四、运行图  
 ![](https://github.com/canjie-zheng/aaa/blob/master/%E7%94%9F%E5%AD%97.png)
 ![](https://github.com/canjie-zheng/aaa/blob/master/%E6%8A%9B%E5%87%BA%E5%BC%82%E5%B8%B8.jpg)  
